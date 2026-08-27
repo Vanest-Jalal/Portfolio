@@ -646,6 +646,13 @@ nav {
   opacity: 0.6;
 }
 
+.site-footer {
+  position: relative;
+  z-index: 10;
+
+  background-color: #ede8df;
+}
+
 /* SCROLL ANIMATION */
 
 .reveal {
