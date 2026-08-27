@@ -262,6 +262,10 @@ nav {
   font-size: 14px;
 }
 
+.skills-section {
+  position: relative;
+}
+
 /* CTA */
 
 .cta-section {
