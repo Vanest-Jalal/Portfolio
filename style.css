@@ -671,6 +671,15 @@ nav {
   transform: translateY(0);
 }
 
+.project-image {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
 /* TABLET */
 
 @media screen and (max-width: 850px) {
